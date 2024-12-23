@@ -1,0 +1,12 @@
+{
+  "languages": {
+    "Nix": {
+      "format_on_save": {
+        "external": {
+          "command": "alejandra",
+          "arguments": []
+        }
+      }
+    }
+  }
+}
