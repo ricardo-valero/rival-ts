@@ -22,6 +22,7 @@
             alejandra
             nodejs
             corepack
+            python3 # For systems that do not ship with Python by default (required by `node-gyp`)
             deno
             bun
           ];
